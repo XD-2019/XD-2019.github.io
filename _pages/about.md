@@ -13,6 +13,7 @@ My research interests center on urban climatology, remote sensing, and machine l
 ·Deep learning–based land cover classification and analysis
 ·Urban thermal comfort modeling by integrating the Weather Research and Forecasting (WRF) model and SOLWEIG
 ·Machine-learning-based urban heat prediction
+
 Education
 ======
 * Direct Ph.D in Architecture (Urban climate), Zhejiang University (Co-supervised at ETH, Zurich), 2019-2025 (expected)
