@@ -24,9 +24,10 @@ author:
   avatar           : "profile.png"
   name             : "Xiaotian Ding"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "PhD candidate in Urban climate, from Zhejiang University, China (Co-supervised at ETH, Zurich)"
   location         : "Zurich, Switzerland"
-  employer         : "Zhejiang University, China (Co-supervised at ETH, Zurich)"
+  employer         : "Zhejiang University, China
+  (Co-supervised at ETH, Zurich)"
   uri              : # URL
   email            : "dingxt@zju.edu.cn" 
 
