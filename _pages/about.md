@@ -8,11 +8,11 @@ redirect_from:
 ---
 
 I am currently a Ph.D. candidate in the Department of Architecture (Urban climate) at Zhejiang University, co-supervised at ETH Zürich, and expected to graduate in October 2025.
-
-My research interests center on urban climatology, remote sensing, and machine learning, with a strong emphasis on:
-·Deep learning–based land cover classification and analysis
-·Urban thermal comfort modeling by integrating the Weather Research and Forecasting (WRF) model and SOLWEIG
-·Machine-learning-based urban heat prediction
+I have in-depth research experience and strong skills in building environment and urban climate studies spanning multiple spatial scales, from micro-scale (~1 m) to mesoscale (>10 km). My expertise includes:
+* Meso-scale urban climate modeling using the Weather Research and Forecasting (WRF) model coupled with urban canopy models
+* Deep learning–based high-resolution (~1 m) urban land cover classification and analysis
+* Machine learning–based urban air temperature prediction integrating observational datasets
+* Urban micro-scale thermal comfort modeling (2-10m) by combining WRF simulations with the SOLWEIG model
 
 Education
 ======
