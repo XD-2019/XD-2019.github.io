@@ -2,7 +2,7 @@
 title: "A WRF-UCM-SOLWEIG framework for mapping thermal comfort and quantifying urban climate drivers: Advancing spatial and temporal resolutions at city scale"
 collection: publications
 category: manuscripts
-permalink: /publication/2024a WRF-UCM-SOLWEIG.md
+permalink: /publication/2024a WRF-UCM-SOLWEIG
 excerpt: ''
 date: 2024-12-12
 venue: 'Sustainable Cities and Society'
