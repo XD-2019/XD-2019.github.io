@@ -11,35 +11,29 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Direct Ph.D in Architecture (Urban climate), Zhejiang University (Co-supervised at ETH, Zurich), 2019-2025 (expected)
+* B.S. in Mechanical engineering, Nanjing University of Science and technology, 2013-2017
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2017-2019: Wind power resource engineer
+  * Zhejiang Windey Co., Ltd. (One of the top Wind turbine manufacturer in China)
+  * Duties includes: responsible for site assessments, energy yield calculations, and micro-siting.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* 2019-2021: Research Assistant
+  * Honkong University-Zhejiang Institute of Research and Innovation
+  * Duties included: Establish and maintain urban climate observations database, Conduct statistical analysis. Coordinated and integrated research progress within the laboratory.
+ 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* Machine Learning
+  * CNN-based satellite image recognation, land cover classification
+  * Machine learning-based interpolatation
+  * Physics-informed machine learning methods, Explainable machine learning techniques
+* Mesoscale-climate simulations: WRF (Weather Research & Forecasting Model), Data assimilation, generate input data from GCM model runs.
+* Microscale-climate simulations: SOLWEIG (SOlar and LongWave Environmental Irradiance Geometry model), Fluent
+* Remote sensing image processing, GIS...
 
 Publications
 ======
