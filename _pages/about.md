@@ -22,16 +22,11 @@ Education
 Work experience
 ======
 * 2017-2019: Wind power resource engineer, Zhejiang Windey Co., Ltd. (One of the top Wind turbine manufacturer in China)
-  * Duties includes: responsible for site assessments, energy yield calculations, and micro-siting.
-
 * 2019-2021: Research Assistant, Honhkong University-Zhejiang Institute of Research and Innovation
-  * Duties included: Establish and maintain urban climate observations database, Conduct statistical analysis. Coordinated and integrated research progress within the laboratory.
- 
+  
 Skills
 ======
-* Machine Learning
-  * CNN-based satellite image recognation, land cover classification
-  * Physics-informed machine learning methods, Explainable machine learning techniques...
+* Machine learning: CNN-based satellite image recognation, land cover classification, Physics-informed machine learning methods, Explainable machine learning techniques...
 * Mesoscale-climate simulations: WRF (Weather Research & Forecasting Model), Data assimilation, generate input data from GCM model runs.
 * Microscale-climate simulations: SOLWEIG (SOlar and LongWave Environmental Irradiance Geometry model), Fluent
 * Remote sensing image processing, GIS, Python, Linux...
