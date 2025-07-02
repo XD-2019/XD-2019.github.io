@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 I am currently a Ph.D. candidate in the Department of Architecture (Urban climate) at Zhejiang University, co-supervised at ETH Zürich, and expected to graduate in October 2025.
-I have in-depth research experience and strong skills in building environment and urban climate studies spanning multiple spatial scales, from micro-scale (~1 m) to mesoscale (>10 km). My expertise includes:
+I have in-depth research experience and strong skills in building environment and urban climate studies spanning multiple spatial scales, from micro-scale to mesoscale. My expertise includes:
 * Meso-scale urban climate modeling using the Weather Research and Forecasting (WRF) model coupled with urban canopy models
 * Deep learning–based high-resolution (~1 m) urban land cover classification and analysis
 * Machine learning–based urban air temperature prediction integrating observational datasets
