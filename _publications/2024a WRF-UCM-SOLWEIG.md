@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2024a
 excerpt: ''
-date: 2024
+date: 2024-12-12
 venue: 'Sustainable Cities and Society'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
