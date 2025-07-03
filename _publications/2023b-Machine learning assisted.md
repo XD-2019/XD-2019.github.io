@@ -1,8 +1,8 @@
 ---
-title: "Paper Title Number 3"
+title: "Machine learning-assisted mapping of city-scale air temperature: Using sparse meteorological data for urban climate modeling and adaptation"
 collection: publications
 category: manuscripts
-permalink: /publication/2023a-Urban surface classification using semi-supervised
+permalink: /publication/2023b-Machine learning assisted
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2015-10-01
 venue: 'Journal 1'
