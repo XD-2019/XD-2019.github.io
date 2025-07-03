@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "mont_potrait.png"
+  avatar           : "mont_potrait.jpg"
   name             : "Xiaotian Ding"
   pronouns         : # example: "she/her"  
   bio              : "PhD candidate in Urban climate, from Zhejiang University, China (Co-supervised at ETH, Zurich)"
